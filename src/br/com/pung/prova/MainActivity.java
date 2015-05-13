@@ -11,7 +11,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-
+// teste
 public class MainActivity extends Activity implements SensorEventListener {
 
 	SensorManager sMgr;
